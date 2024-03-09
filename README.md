@@ -1,6 +1,10 @@
 # Exercise-04c-Enemies
 
 ## Implementation
+Added sound effects 
+Added Music
+Added Start Screen
+
 
 ## References
 
@@ -10,6 +14,10 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 
 Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
+
+Sound Effects created by me in ChipTone
+Music Created by me 
+Normandy Beach font created by Iconian Fonts
 
 ## Future Development
 
